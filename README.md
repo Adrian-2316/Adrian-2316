@@ -11,8 +11,6 @@ hobby and passion. I'm constantly striving to improve my skills and learn new te
 
 Feel free to contact me if you are interested!
 
---------------------------------------------
-
 ### Technologies ⚡
 
 --------------------------------------------
