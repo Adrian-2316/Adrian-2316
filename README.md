@@ -37,6 +37,7 @@ Feel free to contact me if you are interested!
 --------------------------------------------
 
 Started to move all my projects a few months ago, be patient.
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adrian-2316&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-2316&langs_count=3&theme=tokyonight)]()
 
